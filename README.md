@@ -10,4 +10,8 @@ This app was coded in `Javascript` and developed with:
 - [React JS](https://reactjs.org)
 - [Bootstrap 5](https://getbootstrap.com)
 
+
+### Deploy
+https://gifs-avalos-app.herokuapp.com
+
 _made by sanavalos_
